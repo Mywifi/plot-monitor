@@ -13,7 +13,7 @@ do
     if ((i == 3))
     then
 	echo "sleep 2 hours..."
-	sleep 6
+	sleep 7200
     fi
 
     ((i++))
