@@ -1,7 +1,7 @@
 #!/bin/bash
 i=1
-max=6
-b=5000
+max=5
+b=6000
 date=`date +%m%d%H%M`
 
 while ((i <= $max))
